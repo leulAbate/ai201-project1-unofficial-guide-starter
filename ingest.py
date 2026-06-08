@@ -87,19 +87,40 @@ def chunk_text(
     return chunks
 
 
+def extract_title(text: str) -> str:
+    """
+    Pull the document title from the first line if it starts with 'Title:'.
+    Falls back to an empty string so chunks still work without a title.
+    """
+    first_line = text.splitlines()[0] if text else ""
+    if first_line.startswith("Title:"):
+        return first_line[len("Title:"):].strip()
+    return ""
+
+
 def build_chunk_corpus(
     folder: Path = DOCUMENTS_DIR,
 ) -> list[dict]:
     """
     Full pipeline: load → clean → chunk.
-    Returns list of {text, source} dicts ready for embedding.
+
+    Each chunk gets the document title prepended before embedding so that
+    chunks mid-document still carry topic context (e.g. every chunk from
+    the water-chemistry doc embeds with 'Water for Coffee Guide - KH Buffer...'
+    at the top, preventing generic phrases like 'espresso taste' from
+    pulling the wrong document to the top of retrieval results).
+
+    Returns list of {text, source} dicts. 'text' is the title-prefixed
+    version used for both embedding and storage.
     """
     docs = load_documents(folder)
     corpus = []
     for doc in docs:
         cleaned = clean_text(doc["text"])
+        title = extract_title(cleaned)
+        header = f"[{title}]\n" if title else ""
         for chunk in chunk_text(cleaned):
-            corpus.append({"text": chunk, "source": doc["source"]})
+            corpus.append({"text": f"{header}{chunk}", "source": doc["source"]})
     return corpus
 
 

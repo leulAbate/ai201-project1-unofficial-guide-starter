@@ -1,0 +1,69 @@
+Title: Micro-Roasting Dark Coffee Roasts in the Behmor Home Roaster
+
+Achieving delicious dark roasts in the Behmor coffee roaster is easy with the right approach.
+If you’ve read your Behmor instruction manual (which you absolutely should!), you’ve likely seen the deterrents to roasting dark. Why? Mostly for safety reasons, as the darker you develop your roast, the more likely you are to start a fire in your roaster.
+
+But with preparation and a little caution, roasting to 2nd crack doesn’t have to be dangerous and the Behmor is actually quite capable of getting there in a reasonable amount of time.
+
+Challenges of roasting dark in the Behmor:
+Every coffee roaster comes with its own set of challenges, and the Behmor is no exception. Whether you have the first generation 1600 or the new 2000AB Plus, you’re reliant on time and heat to reach your desired roast target. Add to that the fact that your heat source is right next to the coffee and you have a few variables to consider in order to roast dark in a reliant and safe way.
+
+Of those first two variables, time is perhaps the one you need to consider most. The Behmor coffee roaster’s preset time lengths are based on built-in profiles and weight settings. On their own, they won’t generally allow enough time for coffee to reach 2nd crack, even using P1, the highest preset roast profile (there is a way to do this that I’ll outline a little later, but it’s not ideal).
+A red hot burner at the back of the behmor coffee roaster’s roast chamber can be hazardous with excessive chaff.
+Having an electric burner inside the roast chamber presents its own set of dangers, not the least of which is starting a fire. It’s an unlikely result if you follow our tips and the guidelines in the manual, but a danger you must be aware of and something to keep your eye on throughout any roast light or dark on the Behmor coffee roaster.
+
+Before we get into the basics of roasting dark in the Behmor specifically, let’s first answer some of the more basic questions we get from customers about differences between medium and dark roasts.
+
+What do we mean by “dark roast”?
+We consider 2nd crack, or Full City+ roast level (“FC+”), to be the dividing line that separates dark from medium roasts. Roasting beyond the beginnings of 2nd crack/FC+ are further developed gradients of dark roasting and include French and Vienna roast levels.
+
+What does 2nd crack do to the coffee?
+As you pass over into 2nd crack, oils from inside the coffee beans are pushed outward to the surface. You won’t see them right away if you stop your roast at the beginnings of this stage, but their shine will be seen after a couple days of rest.
+
+How does 2nd crack affect flavor?
+The flavor profile will change quite a bit beyond 2nd crack. Sweetness takes a back seat to bittering roast tones and acidity is gone altogether. It’s good to keep in mind the inverse relationship between sweetness and bitterness and will help to inform just how dark you decide to roast a coffee.
+
+How do I know I’ve reached 2nd crack?
+2nd crack sounds distinctly different that 1st crack and is higher pitched and faster. Think of 1st crack as having the bass of popcorn popping, while 2nd crack has the rapid cadence and high pitched ‘snaps’ of rice crispies. Most coffees also have a period of silence between the 1st crack and 2nd crack stages that lasts around 30 seconds to a minute (sometimes more).
+
+The Behmor coffee roaster, a race against time:
+No matter what your target roast level is, the length of your roast time is one of the more important factors to consider. Two coffees roasted to Full City roast level over vastly different lengths of time are going to taste quite different despite their similar appearance. Roast too long and you bake out sweetness and flatten acidity, too quickly and you risk scorching the exterior or a raw center of the bean.
+The Behmor coffee roaster control panel presents many options, but all you need is manual mode and the 1LB roast batch setting for roasting dark.
+In general, you don’t have to worry about roasting too fast on the Behmor coffee roaster and are much more likely to find yourself working to speed things up. Being on the slower side makes roasting dark on the Behmor particularly challenging, but far from impossible.
+
+After running several different roast tests, it became apparent that you absolutely must roast in manual mode to get the shortest roast times. Even when I tested the hottest preset of <P1>, I had to add the maximum amount of time allowed by way of the <+> button, AND employ the <C>/”rosetta stone” reset 3 times in order to hit 2nd crack. My final roast time was just over 25 minutes, which is way too long! (*The P1 preset still oscillates the burner on and off, whereas manual mode is 100% until you decide to change course.)
+
+You may think that since it’s a dark roast, the long roast time is less significant. This is not the case and you should still hope to finish your dark roast in well under 20 minutes (mine were in the 16-17 minute range) in order to capture sweet, smokey cup flavors rather than a profile of bittering, ash.
+Cleaning the roast chamber of the Behmor coffee roaster with simple green and a sponge.
+Our preferred dark roast method looks something like this:
+Always make sure your roaster is clean. This is perhaps the most important tip! The combination of smoke, chaff and an open heating source at the back of your roaster create a fire hazard. Limiting chaff and oily residue is an absolute must.
+Keep batch sizes to no more than 12 ounces – I use 225 grams. Yes, you can physically roast larger batches. But increasing volume will also increase the amount of smoke and chaff, which are dangerous, and can lead to a roaster fire.
+Start by preheating your roaster for 2 full minutes on P1 without the drum or chaff tray in the machine. It doesn’t matter what batch size you select at this point since you’ll be stopping the warm up to load the drum and re-starting your roast.
+Have your drum loaded with coffee so you’re ready to insert it into the roasting chamber as quickly as possible after warm up. It’s nothing to obsess over, but the speed at which you make this transition will have some affect on how much heat you retain from the warm-up period.
+Start the roast by pressing the full pound setting in order to capture the most time possible, hit <P1> and <start>, then hit <P5> to enter manual mode.
+Use the fast drum speed by hitting <D> to keep the coffee high in the drum and in front of the heating element.
+On the Behmor 1600 Plus, I have to watch my roaster temp <B> in order to avoid triggering the high temp error and inevitable shutdown. 325F is where this occurs on my Behmor coffee roaster, but the range seems to be 325F to 331F for other roasters. When the <B> temp reaches 310F, reduce power to <P3>/50%, or <P4>/75% until the temperature starts to drop, then bump back up to <P5>. I toggle between these settings in order to keep the temperature high and the roast progressing steadily. So far, we haven’t experienced this issue on the Behmor 2000AB Plus.
+To achieve a Full City+ roast a few seconds into 2nd crack, and up to 1 full minute. I would not go beyond this point for fear of a chaff fire.
+Roasting this dark absolutely means you need to clean out your roaster between batches by vacuuming the inside of the roast chamber of chaff, and wiping down the interior. I also recommend running a 1/4 LB dry burn between roasts, but every other roast is fine too.
+The Behmor “roast coast” and how it affects roast development and flavor:
+With the Behmor coffee roaster, there’s something called the “roast coast” phenomena. That is, your roast will continue to develop after you enter the cooling cycle.
+
+This means that if you’re shooting for something like a light Vienna, you’re going to want to start the cooling process before you’ve actually reached that point of development in the roaster.
+Comparing two different dark roasts straight from the roaster and after 6 days of rest, the oils are much more present after resting.
+Don’t worry that your coffee isn’t oily at this point (if that’s what you’re shooting for). Give it a few days and the oils will rise to the surface, even with a roast stopped 10 seconds into 2nd crack. Oils should not be visible during roasting, and if you do see them, you’re about a crack away from a roaster fire!
+
+Another aspect of the “roast coast”, is that coffee roasted in the Behmor generally tastes darker than the exterior roast shade might lead you to believe. The same goes for lighter Behmor roasts.
+
+Alternative cooling methods:
+One way to end roast development more quickly is to use an auxiliary cooling tray, which you can see examples of HERE. Even with this method, I wouldn’t pull the drum until at least 1 minute into the cooling cycle so that it has a chance to cool off some before touching.
+This colander, cardboard box and shop vac are an easy cooling tray hack capable of cooling your roast batch in less than 3 minutes.
+You can also cool your batch with the door open, but should wait until the heating element is completely shut off (no longer glowing red) to do so in order to avoid chaff ignition on the burner.
+
+Final considerations for roasting dark safely in the Behmor:
+While it’s possible to roast dry process and honey process coffees to 2nd crack, we don’t recommend it. Dry process and honey process coffees expel a lot more chaff than washed and increase the risk of a roaster fire. If you decide to roast them anyways, either keep your 225 grams batch out of 2nd crack or cut your batch size in half. Either way, WATCH YOUR ROAST CLOSELY. Remember, the heating element is open at the back of your roast chamber, and it only takes a few sparks to start a fire in your roaster.
+
+And finally, if a bean or enough chaff ignite and cause a fire in your roaster, the Behmor should automatically go into emergency shutdown mode (likely Err2 or Err3). Whether it does or not, DO NOT OPEN THE ROASTER DOOR as adding air will only fan the flames. Unplug the roaster and move it outside safely.
+
+But you won’t have a fire since you’ve followed our tips and read the manual that came with your Behmor coffee roaster, right? These two guides will not only help you roast coffee dark in the Behmor safely, but also help to achieve a fresh dark roast that tastes really good.
+
+If you’re more of a visual learner, check out our video on roasting dark in the Behmor coffee roaster.

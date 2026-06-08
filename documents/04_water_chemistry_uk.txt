@@ -1,0 +1,58 @@
+Title: Water for Coffee Guide - KH Buffer and Magnesium Hardness Dynamics
+
+Water for Coffee Guide - A UK Perspective
+Preface
+I originally started writing this as a reply to another post but it turned into a wall of text I felt justified its own post.
+
+Having been down the water for coffee rabbit hole last year, I found the cheapest option and my preferred workflow is making my own. On the surface this whole endeavour can seem crazy but it honestly has added a whole new dimension to how I make coffee; providing your have good, fresh beans you can easily tell the difference when your start water was as hard as mine was. For reference, I was starting with a general hardness (GH) of 350ppm and (KH) carbonate hardness of 250ppm.
+
+Here's a screenshot of a table I made comparing a couple of different methods in terms of price/litre. I ended up purchasing a water distiller for about £50 from eBay and it will have paid for itself after about year compared to buying deionised water at 50p/litre. I'll talk through some of the other options, I try to keep the science to a minimum but feel free to check out the links at the bottom for an introduction to the water chemistry and types of hardness in water.
+
+As a brief overview, hardness isn't all bad. You just don't want too much or too little. There are 2 types: GH and KH.
+
+GH is responsible for the extraction of important flavours from your coffee beans, too much and you'll see classic over extraction, too little and your coffee will lack flavour.
+
+KH is the 'buffer' or alkalinity of the water. Coffee is acidic, and in speciality we tend to like that acidity particularly associated with light roasts. Too much KH and you'll knock out the acidity of the drink and raise the overall pH, your coffee will taste very flat. Too little KH and your cup will be harsh and overly acidic. This is also useful to know if you're not a fan of acidity, aim for water with a higher KH.
+
+If you're interested in finding out the water composition in your area, your local water company should provide water quality reports on their website which are pretty accurate in my experience, though you have to be careful interpreting the terminology they use. Mine, for example, expresses total hardness (GH) as 'calcium carbonate' and then a separate reading called 'calcium' which is referring to non-cabronate hardness. KH can be calculated as 'calcium carbonate' - 'calcium' in this case.
+
+Another option is to buy a GH and KH testing kit for around £8-£10. Very handy for verifying your solution is what you expected too.
+
+Ready-to-Go Solutions
+Bottled Water
+
+Most supermarket and even branded bottled water is actually very far from ideal water for coffee - (forum post). For example, Asda's mineral water has pretty decent general hardness (GH) (calcium+magnesium of 54mg/litre), but a buffer (bicarbonate) of 166mg/litre, way off the scale. Still possibly better than home tap water in some areas of the UK, but that high buffer is going to mute a lot of the acidity in your cup. And it's nothing to do with price/quality, Evian is even worse for example. This is simply because what people find tastes good in water has no bearing on what makes good coffee. The closest you'll get is Volvic which is a particularly soft water (a little too soft even), but if you don't mind paying the 38p/litre the option is there. Just to add for the environmentally conscious: bear in mind the plastic waste / transport / production costs of buying many bottles of water in this way. Out of all the options I would assume this has the highest environmental impact.
+
+Water filters
+
+A few different companies to choose from here but essentially they all work by passing the water over an ion exchange resin to swap out calcium and magnesium ions for something else (usually sodium, which we can ignore). On top of this they usually include an active carbon filter to reduce presence of other chemicals that could impart smell/flavour such as chlorine. The filtration effect here effectively reduces the hardness of your starting water, with different brands providing a different offset. I'm not sure if this effect scales with hardness or is a fixed reduction but the harder the water in, the harder it will be coming out. In nearly all cases, these filters are 'dumb' and provide a fixed amount of filtration with the only option being a bypass if you want to increase the hardness of the resulting water. The way the filters reduce GH and carbonate hardness (KH) will differ from brand to brand also, so you'd need to test a few to find one that reduces your tap mineral content in the right proportions.
+
+It's generally recommended you swap these filters out at least every two months for hygiene so you're looking at about £3.33 every two months, or 5.5p/day. Personally I drink one 300ml cup a day so that works out around 18p/litre, obviously if you drink more coffee this becomes better value. The big caveat I would put on this solution is that these filters degrade, and they do so over time rather than suddenly stop working X number of days in. This means you're constantly fighting the changing mineral content in your water and this becomes a frustrating variable in your process as your work through a new bag of beans, particularly when swapping to a fresh filter.
+
+In-line softeners
+
+These are essentially water filters on a much larger scale and soften the water to your entire house (or individual tap), in the price screenshot I listed it as 'water2buy' which is just one of many companies selling the smaller kits. Same pros/cons as above but you probably pay less per litre at the cost of having to soften ALL the water this device is connected to, if you're only using it for coffee though the price/litre is probably very high due to the hygiene limitation. Some other positives: Changing the filters out is far less frequent than with a water filter. A large whole-house solution may save you money on repairing pipes/showers due to limescale build-up. Some downside include: You have to install a large system which may not be an option if you rent. Large systems will often reduce your hardness to 0, meaning you have to re-mineralise. In my case, our system reduced GH from 350ppm to near-0, but left KH completely unaffected at 250ppm, ratio-wise this is much worse than the unfiltered water and made coffee taste extremely flat.
+
+Reverse Osmosis
+
+Very similar to above but very expensive, and depending on the system you may have to re-mineralise or use a partial bypass anyway. I listed Osmio as a novel on-demand countertop solution (has a following on some home coffee forums), but the upfront cost is around £300-£400 and then you're locked in to using their expensive refills too. Note you could RO to 0ppm and re-mineralise, then this would belong in the DIY section.
+
+DIY Solutions
+Deionised
+
+As mentioned above, this costs around 50p/Litre in the UK if you're lucky and can find a supermarket selling the 5L bottles of CarPlan. This is also not ideal from a health perspective as a long-term solution as it is not rated for human consumption, and while possibly fine, CarPlan are not at fault if it turns out there are traces of heavy metals or whatever in the water.
+
+Distilled
+
+Just a note that distilled/deionised are the same for our purposes, particularly as we're boiling the water to make coffee and are mainly concerned with the primary mineral composition. If you're lucky you might live near a station that you can purchase distilled water from in large quantities for about 4p/L after VAT. I don't know if this is technically safe to drink or if you need to be a business / buy in ridiculously large volumes to use them though. Otherwise, you can buy an electric water distiller and make your own at home. The costs for this earlier in the post of 11p/litre were based on the electricity price at the time of 14p/kWh, right now that's obviously a little low.
+
+With both this and deionised, you then have two options. If your tap water is already in a nice ratio of GH:KH, you can take a little bit of that, do some maths, and top up your distilled water to give you the same ratio of GH:KH but in much lower quantities suitable for making coffee. Note your water's GH is likely primarily calcium and the recipes below use magnesium sulphate, you should take 1ppm of calcium to be equivalent to about 1.6-2ppm of magnesium (though don't quote me on this. This is where a lot of Max Dashwood's research was focused).
+
+The other option is to buy some sodium bicarbonate and epsom salts (make sure it's pure magnesium sulphate!) and make your own water from scratch. This Barista Hustle guide is extremely useful and the process is very simple once you've done it once or twice. Essentially you keep 2 x 1L bottles of distilled water in the fridge with a couple of grams of the above ingredients added (one bottle for each), make your distilled water, weigh it, then add the appropriate amounts of each bottle solution to make your desired 'recipe'. (If you decide you've found the perfect recipe, you could simplify this further to 1 bottle with both ingredients and re-do the maths). I made a little spreadsheet on my phone to make these calculations painless and the whole process takes me about 5 mins once every 2-3 weeks.
+
+The upfront costs with this method are: the water distiller (about £50), a set of 0.01g resolution scales (about £15), and the bicarbonate of soda and epsom salts (about £4 total and basically never runs out because you use so little).
+
+TWW and Sachets
+
+Edit: These are a third option for using with distilled / deionised water, however I have not recently priced them up and last time checked they were a lot more expensive than DIY. Given this guide was originally written as a UK perspective, the main sticking point here is obtaining distilled water in the first place. I personally don't mind spending a couple of minutes weighing some minerals once I have the water, but if you want to save some time and pay for pre-made sachets instead check out this comparison video by James Hoffmann. Finding a large enough water container for some of those sachets is another factor to bear in mind.
+

@@ -1,0 +1,35 @@
+Title: Sweet Maria's Roasted Coffee Color Card and Roast Degree Identification
+
+We created this card as an inexpensive tool to help determine the degree of roast.
+Trying to match up the terms we use for roasted coffee with the appearance of your own roast results can be hard! What exactly is the difference between City and Full City? When does first crack happen in terms of roast color?
+
+This card might be a good tool to help answer some of those questions. Looking at roast color alone has it’s limitations. In fact, using all your senses when roasting is the best way, along with some good roast notes and temperature measurement. And, when you taste the resulting roast, relating that back to your roast notes really helps refine the craft!
+
+In any case, having a color reference card to keep by you as you roast, or to check the roast results later using ground coffee samples, is not a bad thing at all. For $2 in particular! You receive 2 copies of the card with each order, with an envelope printed with some handy tips.
+The back of our card has handy reference photos of whole bean coffee, using the SCA roast color number scale and approximate roast temperatures. We don’t use those SCA Specialty Scale degree of roast numbers in our reviews, but they are an industry standard. Most electronic devices used to measure roast color use this scale of numbers.
+
+(UPDATE Jan 30: Our latest version of the card adds weight-loss percentage for each level of roast. Weight loss is a great way to cross check the roast color. More info below…)
+
+In any case, color analysis equipment can cost $300 on the lowest end, and the usual devices large roasters use is about $3000! We wanted to come up with a low cost color reference card people could use as a standard to compare roasts.
+
+Other such printed reference materials exist printed using more exacting methods (SCA roast discs, Roastrite color chips) … but they cost tens to hundreds of dollars. We think $2 is better! Thompson created this video to go into some greater details, and the pros and cons of our card.
+V.4 Roast Card Now with Weight Loss Percentage
+Our latest version of the card adds weight-loss percentage for each level of roast. Weight loss is a great way to cross check the roast color. We tested weight loss for home roasters, both air roast and drum roast type, and averaged them to derive our weight loss standards for each roast level. (They were not that different actually).
+
+To accurately check weight loss, you need a decent gram scale. Weigh your batch before and after (it’s important not to miss a single bean when doing so!). To covert weight loss to a percentage, use this formula: (Green Weight – Roasted Weight) / Green Weight * 100 = Weight Loss %. So if I start with 95 grams, and end up with 85 grams, then 95-85 is 10, divided by 95 is .1052, and times 100 = 10.52% weight loss. Got it? (see our page dedicated to Roasted Coffee Weight Loss too)
+
+In case you bought an earlier version of the card, you can pen in these values for weight loss:
+
+1st Crack	City-	City	City+	Full City	Full City+	French	Burnt
+412 f	418 f	425 f	432 f	438 f	442 f	448 f	455+ f
+– 10.3%	– 11.5%	-12.7%	-13.3%	-14.5%	-15.1%	-15.6%	-16.6+%
+Tips to Use the Sweet Maria’s Roasted Coffee Color Card
+The matte paper and low contrast on the front of the card is intentional.
+Even with the matte paper, the card can produce a lot of glare. To avoid glare, view card at 20° angle.
+The numbers and border on the front of the card are 18% neutral gray.
+The card can take fingerprints easily, so hold by the edges if you can. It’s also part of why we include 2 copies!
+Ground coffee samples can be easier to judge than whole bean. 
+Coffee color varies by process, variety and other aspects! So this kind of card isn’t infallible. (nice double negative!)
+The chaff in bean or ground coffee changes color perception. If a ground sample has a lot of chaff it’s good to take that into account.
+Weight loss % is averaged from drum and air type roasts
+Weight loss formula : (Green weight – Roasted weight) / Green weight x 100 = % weight loss
